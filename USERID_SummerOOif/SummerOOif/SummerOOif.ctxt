@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=SummerOOif
+comment0.text=\r\n\ This\ Object-Oriented\ version\ of\ the\ "Summer"\ class\r\n\ is\ stripped\ down\ to\ the\ essentials\ for\ illustrating\ the\r\n\ use\ of\ the\ "if"\ statement.\ \r\n\r\n\ SKELETON\ FOR\ LAB\ TEST.\r\n\ \r\n\ @author\ Raymond\ Lister\r\n\ @version\ April\ 2015\r\n
+comment1.params=num
+comment1.target=SummerOOif(int)
+comment1.text=\r\n\ Initialise\ all\ the\ fields\ /\ private\ data\ memnbers\ \r\n\ \r\n\ @param\ \ \ firstNumber\ The\ first\ number\ of\ a\ series\ \r\n
+comment2.params=newNumber
+comment2.target=void\ putNumber(int)
+comment2.text=\r\n\ @param\ \ newNumber\ \ \ a\ new\ number\ in\ the\ series\ \r\n
+comment3.params=
+comment3.target=int\ getMinimum()
+comment3.text=\r\n\ @return\ \ \ \ \ The\ minimum\ of\ all\ the\ numbers\ received\ \r\n
+comment4.params=
+comment4.target=int\ getMaximum()
+comment4.text=\r\n\ @return\ \ \ \ \ The\ maximum\ of\ all\ the\ numbers\ received\ \r\n
+numComments=5
